@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="book_name">
+        <item>English Grammar And Use Made Easy</item>
+        <item>English Grammar Rules </item>
+        <item>Stephen Leather</item>
+        <item>Travel to Chiang Mai</item>
+        <item>Superman/Wonder Woman</item>
+        <item>Overwatch</item>
+    </string-array>
+
+    <string-array name="book_price">
+        <item>199 Bath</item>
+        <item>129 Bath</item>
+        <item>123 Bath</item>
+        <item>480 Bath</item>
+        <item>299 Bath</item>
+        <item>599 Bath</item>
+
+
+    </string-array>
+</resources>
